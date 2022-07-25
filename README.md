@@ -10,4 +10,5 @@
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                   | [Solution](best-time-buy-stock.py)      |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                 | [Solution](maximum-subarray.py)         |
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                             | [Solution](range-sum-query.py)          |
+| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                                     | [Solution](palindrome-linked-list.py)   |
 
