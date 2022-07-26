@@ -12,4 +12,5 @@
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                             | [Solution](range-sum-query.py)          |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                                     | [Solution](palindrome-linked-list.py)   |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                     | [Solution](merge-two-sorted-lists.py)   |
+| [Two Sum](https://leetcode.com/problems/two-sum)                                                                   | [Solution](two-sum.py)                  |
 
