@@ -14,4 +14,5 @@
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                     | [Solution](merge-two-sorted-lists.py)        |
 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                   | [Solution](two-sum.py)                       |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)             | [Solution](remove-duplicates-sorted-list.py) |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                              | [Solution](middle-linked-list.py)            |
 
