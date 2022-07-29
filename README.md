@@ -3,6 +3,7 @@
 | Task                                                                                                               | Solution                                     |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                   | [Solution](best-time-buy-stock.py)           |
+| [Binary Search](https://leetcode.com/problems/binary-search)                                                       | [Solution](binary-search.py)                 |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                                   | [Solution](climbing-stairs.py)               |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                             | [Solution](contains-duplicate.py)            |
 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Solution](find-disappeared-numbers.py)      |
