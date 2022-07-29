@@ -14,5 +14,6 @@
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                             | [Solution](range-sum-query.py)               |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)             | [Solution](remove-duplicates-sorted-list.py) |
 | [Single Number](https://leetcode.com/problems/single-number)                                                       | [Solution](single-number.py)                 |
+| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                              | [Solution](squares-of-sorted-array.py)       |
 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                   | [Solution](two-sum.py)                       |
 
