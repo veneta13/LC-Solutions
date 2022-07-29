@@ -12,6 +12,7 @@
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                              | [Solution](middle-linked-list.py)            |
 | [Missing Number](https://leetcode.com/problems/missing-number)                                                     | [Solution](missing-number.py)                |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                                     | [Solution](palindrome-linked-list.py)        |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                              | [Solution](palindrome-number.py)             |
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                             | [Solution](range-sum-query.py)               |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)             | [Solution](remove-duplicates-sorted-list.py) |
 | [Single Number](https://leetcode.com/problems/single-number)                                                       | [Solution](single-number.py)                 |
