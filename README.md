@@ -2,6 +2,7 @@
 
 | Task                                                                                                               | Solution                                     |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| [Add Digits](https://leetcode.com/problems/add-digits)                                                             | [Solution](add-digits.py)                    |
 | [Add Two Integers](https://leetcode.com/problems/add-two-integers)                                                 | [Solution](add-two-integers.py)              |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                   | [Solution](best-time-buy-stock.py)           |
 | [Binary Search](https://leetcode.com/problems/binary-search)                                                       | [Solution](binary-search.py)                 |
