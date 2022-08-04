@@ -21,6 +21,7 @@
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                             | [Solution](range-sum-query.py)               |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)             | [Solution](remove-duplicates-sorted-list.py) |
 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)                           | [Solution](remove-linked-list-elements.py)   |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)                                           | [Solution](reverse-linked-list.py)           |
 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                              | [Solution](same-tree.py)                     |
 | [Single Number](https://leetcode.com/problems/single-number)                                                       | [Solution](single-number.py)                 |
 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                              | [Solution](squares-of-sorted-array.py)       |
