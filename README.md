@@ -18,6 +18,7 @@
 | [Missing Number](https://leetcode.com/problems/missing-number)                                                     | [Solution](missing-number.py)                |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                                     | [Solution](palindrome-linked-list.py)        |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                              | [Solution](palindrome-number.py)             |
+| [Path Sum](https://leetcode.com/problems/path-sum)                                                                 | [Solution](path-sum.py)                      |
 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)                             | [Solution](range-sum-query.py)               |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)             | [Solution](remove-duplicates-sorted-list.py) |
 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)                           | [Solution](remove-linked-list-elements.py)   |
