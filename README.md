@@ -16,6 +16,7 @@
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                 | [Solution](maximum-subarray.py)              |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                     | [Solution](merge-two-sorted-lists.py)        |
 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                              | [Solution](middle-linked-list.py)            |
+| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)                         | [Solution](minimum-depth-binary-tree.py)     |
 | [Missing Number](https://leetcode.com/problems/missing-number)                                                     | [Solution](missing-number.py)                |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)                                     | [Solution](palindrome-linked-list.py)        |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                              | [Solution](palindrome-number.py)             |
