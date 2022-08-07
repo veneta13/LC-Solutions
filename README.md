@@ -11,6 +11,7 @@
 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                     | [Solution](concatenation-of-array.py)        |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                             | [Solution](contains-duplicate.py)            |
 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Solution](find-disappeared-numbers.py)      |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                             | [Solution](invert-binary-tree.py)            ||
 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                | [Solution](majority-element.py)              |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                         | [Solution](maximum-depth-binary-tree.py)     |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)                                                 | [Solution](maximum-subarray.py)              |
