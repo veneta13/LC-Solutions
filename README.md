@@ -34,4 +34,5 @@
 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                              | [Solution](squares-of-sorted-array.py)                  |
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                  | [Solution](subtree-of-another-tree.py)                  |
 | [Two Sum](https://leetcode.com/problems/two-sum)                                                                   | [Solution](two-sum.py)                                  |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                      | [Solution](valid-anagram.py)                            |
 
