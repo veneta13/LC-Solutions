@@ -12,6 +12,7 @@
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)                                             | [Solution](contains-duplicate.py)                       |
 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Solution](find-disappeared-numbers.py)                 |
 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [Solution](find-smallest-letter-greater-than-target.py) |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                    | [Solution](group-anagrams.py)                           |
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                             | [Solution](invert-binary-tree.py)                       |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)                                               | [Solution](linked-list-cycle.py)                        |
 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                | [Solution](majority-element.py)                         |
